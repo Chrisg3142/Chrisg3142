@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Christopher Gutama</h1>
 <h3 align="center">A passionate student</h3>
 
+<img align = "right" alt="coding" width = "400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm*">
+
 - 🌱 I’m currently learning **JavaScript, Java, and Sql using oracle**
 
 - 💬 Ask me about **video games, food, and anime**
