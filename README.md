@@ -20,6 +20,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisg3142&" alt="chrisg3142" /></p>
 
-## I am currently doing  #30NitesOfCode with Codedex:
-  [Check out my progress!](https://www.codedex.io/@chris3142/30-nites-of-code)  
-  ![@chris3142 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=chris3142)
