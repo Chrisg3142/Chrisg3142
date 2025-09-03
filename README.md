@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width = "400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm*">
 
-- 🤳 I am a upcoming Junior studying Computer Systems at New York City College of Technology. I grew a passion for coding in high school. I did not know where to learn how to code, I played around with html files with the inspect element seeing what changed are made when I change a tag or the information within a tag.
+- 🤳 I am a Junior studying Computer Systems at New York City College of Technology. I grew a passion for coding in high school. I did not know where to learn how to code, I played around with html files with the inspect element seeing what changed are made when I change a tag or the information within a tag.
 
 - 🌱 I’m currently learning **JavaScript, OOP in Java, app development with databases, and web development**
 
