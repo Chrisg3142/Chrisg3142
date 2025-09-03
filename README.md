@@ -5,7 +5,7 @@
 
 - 🤳 I am a upcoming Junior studying Computer Systems at New York City College of Technology. I grew a passion for coding in high school. I did not know where to learn how to code, I played around with html files with the inspect element seeing what changed are made when I change a tag or the information within a tag.
 
-- 🌱 I’m currently learning **JavaScript, php, and website development with databases**
+- 🌱 I’m currently learning **JavaScript, OOP in Java, app development with databases, and web development**
 
 - 💬 Ask me about **video games, food, and anime**
 
